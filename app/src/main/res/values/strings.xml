@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TinkoffNews</string>
+    <string name="post_not_load">Данные не загружены</string>
+</resources>
